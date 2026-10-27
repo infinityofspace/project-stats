@@ -1,0 +1,798 @@
+{
+    "owner": "infinityofspace",
+    "timestamp": "2026-10-27T00:34:15.321937",
+    "stats": [
+        {
+            "repo": "argon2",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/argon2",
+                    "full_name": "infinityofspace/argon2",
+                    "description": null,
+                    "language": "Python",
+                    "topics": [
+                        "argon2d",
+                        "benchmark",
+                        "python3"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2021-04-18T21:14:20Z",
+                    "updated_at": "2023-11-10T15:43:47Z"
+                }
+            }
+        },
+        {
+            "repo": "certbot_dns_duckdns",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/certbot_dns_duckdns",
+                    "full_name": "infinityofspace/certbot_dns_duckdns",
+                    "description": "Plugin for certbot for a DNS-01 challenge with a DuckDNS domain.",
+                    "language": "Python",
+                    "topics": [
+                        "certbot-dns-plugin",
+                        "dns-01-challange",
+                        "duckdns"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 19,
+                    "open_issues": 6,
+                    "stars": 117,
+                    "watchers": 117,
+                    "subscribers": 3,
+                    "created_at": "2021-02-01T20:49:41Z",
+                    "updated_at": "2026-10-25T20:19:23Z"
+                },
+                "ghcr": {
+                    "url": "https://github.com/infinityofspace/certbot_dns_duckdns/pkgs/container/certbot_dns_duckdns",
+                    "total_downloads": 9192
+                },
+                "docker_hub": {
+                    "url": "https://hub.docker.com/r/infinityofspace/certbot_dns_duckdns",
+                    "total_pulls": 103374,
+                    "stars": 3,
+                    "last_updated": "2026-08-14T22:20:39.30907Z"
+                },
+                "pypi": {
+                    "url": "https://pypistats.org/packages/certbot_dns_duckdns",
+                    "last_day": 3145,
+                    "last_month": 57071,
+                    "last_week": 16829,
+                    "total_downloads_url": "https://clickpy.clickhouse.com/dashboard/certbot-dns-duckdns",
+                    "total_downloads": 4448554,
+                    "total_downloads_from": "2021-02-04",
+                    "total_downloads_to": "2026-10-26"
+                }
+            }
+        },
+        {
+            "repo": "certbot_dns_porkbun",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/certbot_dns_porkbun",
+                    "full_name": "infinityofspace/certbot_dns_porkbun",
+                    "description": "Plugin for certbot to obtain certificates using a DNS TXT record for Porkbun domains",
+                    "language": "Python",
+                    "topics": [
+                        "certbot",
+                        "certbot-dns-plugin",
+                        "dns-01-challange",
+                        "porkbun"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 13,
+                    "open_issues": 11,
+                    "stars": 92,
+                    "watchers": 92,
+                    "subscribers": 2,
+                    "created_at": "2021-03-28T11:00:56Z",
+                    "updated_at": "2026-10-15T21:33:30Z"
+                },
+                "ghcr": {
+                    "url": "https://github.com/infinityofspace/certbot_dns_porkbun/pkgs/container/certbot_dns_porkbun",
+                    "total_downloads": 8238
+                },
+                "docker_hub": {
+                    "url": "https://hub.docker.com/r/infinityofspace/certbot_dns_porkbun",
+                    "total_pulls": 95347,
+                    "stars": 0,
+                    "last_updated": "2026-04-28T21:57:20.738533Z"
+                },
+                "pypi": {
+                    "url": "https://pypistats.org/packages/certbot_dns_porkbun",
+                    "last_day": 440,
+                    "last_month": 11989,
+                    "last_week": 3354,
+                    "total_downloads_url": "https://clickpy.clickhouse.com/dashboard/certbot-dns-porkbun",
+                    "total_downloads": 386384,
+                    "total_downloads_from": "2021-04-02",
+                    "total_downloads_to": "2026-10-26"
+                }
+            }
+        },
+        {
+            "repo": "docker-volume-juicefs",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/docker-volume-juicefs",
+                    "full_name": "infinityofspace/docker-volume-juicefs",
+                    "description": "Docker volume plugin for juicefs",
+                    "language": "Go",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2024-10-13T19:49:05Z",
+                    "updated_at": "2024-10-13T19:55:10Z"
+                }
+            }
+        },
+        {
+            "repo": "efficient_kruskal",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/efficient_kruskal",
+                    "full_name": "infinityofspace/efficient_kruskal",
+                    "description": null,
+                    "language": "Python",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2020-10-28T22:37:09Z",
+                    "updated_at": "2023-11-22T10:17:48Z"
+                }
+            }
+        },
+        {
+            "repo": "ente-docker",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/ente-docker",
+                    "full_name": "infinityofspace/ente-docker",
+                    "description": null,
+                    "language": "Dockerfile",
+                    "topics": [],
+                    "archived": true,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 1,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2024-08-04T15:57:20Z",
+                    "updated_at": "2025-08-17T20:33:55Z"
+                }
+            }
+        },
+        {
+            "repo": "etesync-web",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/etesync-web",
+                    "full_name": "infinityofspace/etesync-web",
+                    "description": "An EteSync web client",
+                    "language": "TypeScript",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2023-11-02T21:46:17Z",
+                    "updated_at": "2023-11-02T22:08:06Z"
+                }
+            }
+        },
+        {
+            "repo": "filechain",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/filechain",
+                    "full_name": "infinityofspace/filechain",
+                    "description": "Simple blockchain with files",
+                    "language": "Python",
+                    "topics": [
+                        "blockchain",
+                        "client",
+                        "decentralized",
+                        "files",
+                        "python3",
+                        "server"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2023-11-10T08:58:38Z",
+                    "updated_at": "2023-11-10T09:22:20Z"
+                }
+            }
+        },
+        {
+            "repo": "github-readme-stats",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/github-readme-stats",
+                    "full_name": "infinityofspace/github-readme-stats",
+                    "description": ":zap: Dynamically generated stats for your github readmes",
+                    "language": null,
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2025-12-02T21:20:35Z",
+                    "updated_at": "2025-12-02T21:20:35Z"
+                }
+            }
+        },
+        {
+            "repo": "infinityofspace",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/infinityofspace",
+                    "full_name": "infinityofspace/infinityofspace",
+                    "description": null,
+                    "language": null,
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2023-11-12T11:03:26Z",
+                    "updated_at": "2026-10-08T11:05:27Z"
+                }
+            }
+        },
+        {
+            "repo": "jellyfin-alexa-plugin",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/jellyfin-alexa-plugin",
+                    "full_name": "infinityofspace/jellyfin-alexa-plugin",
+                    "description": "Alexa skill plugin for Jellyfin",
+                    "language": "C#",
+                    "topics": [
+                        "alexa",
+                        "alexa-skill",
+                        "jellyfin",
+                        "jellyfin-plugin"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 11,
+                    "open_issues": 14,
+                    "stars": 32,
+                    "watchers": 32,
+                    "subscribers": 4,
+                    "created_at": "2022-05-28T16:07:50Z",
+                    "updated_at": "2026-10-26T02:12:01Z"
+                }
+            }
+        },
+        {
+            "repo": "jellyfin_alexa_skill",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/jellyfin_alexa_skill",
+                    "full_name": "infinityofspace/jellyfin_alexa_skill",
+                    "description": "Selfhosted Alexa media player skill for Jellyfin",
+                    "language": "Python",
+                    "topics": [
+                        "alexa-skill",
+                        "jellyfin",
+                        "selfhosted"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 21,
+                    "open_issues": 39,
+                    "stars": 103,
+                    "watchers": 103,
+                    "subscribers": 11,
+                    "created_at": "2021-09-25T11:37:50Z",
+                    "updated_at": "2026-10-26T02:11:48Z"
+                },
+                "ghcr": {
+                    "url": "https://github.com/infinityofspace/jellyfin_alexa_skill/pkgs/container/jellyfin_alexa_skill",
+                    "total_downloads": 31235
+                },
+                "pypi": {
+                    "url": "https://pypistats.org/packages/jellyfin_alexa_skill",
+                    "last_day": 3,
+                    "last_month": 54,
+                    "last_week": 20,
+                    "total_downloads_url": "https://clickpy.clickhouse.com/dashboard/jellyfin-alexa-skill",
+                    "total_downloads": 24174,
+                    "total_downloads_from": "2021-10-15",
+                    "total_downloads_to": "2026-10-25"
+                }
+            }
+        },
+        {
+            "repo": "joplin-server",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/joplin-server",
+                    "full_name": "infinityofspace/joplin-server",
+                    "description": null,
+                    "language": "Dockerfile",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 5,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2023-11-19T20:46:51Z",
+                    "updated_at": "2025-11-30T20:34:30Z"
+                },
+                "ghcr": {
+                    "url": "https://github.com/infinityofspace/joplin-server/pkgs/container/joplin-server",
+                    "total_downloads": 3783
+                }
+            }
+        },
+        {
+            "repo": "kopia_rclone_docker",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/kopia_rclone_docker",
+                    "full_name": "infinityofspace/kopia_rclone_docker",
+                    "description": "Docker image with kopia and rclone",
+                    "language": "Dockerfile",
+                    "topics": [
+                        "backup",
+                        "docker",
+                        "docker-image",
+                        "kopia",
+                        "rclone"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 2,
+                    "stars": 1,
+                    "watchers": 1,
+                    "subscribers": 1,
+                    "created_at": "2021-08-16T11:56:18Z",
+                    "updated_at": "2026-08-14T22:07:08Z"
+                },
+                "ghcr": {
+                    "url": "https://github.com/infinityofspace/kopia_rclone_docker/pkgs/container/kopia_rclone_docker",
+                    "total_downloads": 12421
+                }
+            }
+        },
+        {
+            "repo": "nebula-docker",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/nebula-docker",
+                    "full_name": "infinityofspace/nebula-docker",
+                    "description": null,
+                    "language": "Shell",
+                    "topics": [],
+                    "archived": true,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2024-04-22T19:21:01Z",
+                    "updated_at": "2024-09-15T19:30:14Z"
+                },
+                "ghcr": {
+                    "url": "https://github.com/infinityofspace/nebula-docker/pkgs/container/nebula-docker",
+                    "total_downloads": 262
+                }
+            }
+        },
+        {
+            "repo": "nextcloud_cookbook_api",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/nextcloud_cookbook_api",
+                    "full_name": "infinityofspace/nextcloud_cookbook_api",
+                    "description": "Python API client for nextcloud cookbook addon API",
+                    "language": "Python",
+                    "topics": [
+                        "api",
+                        "client",
+                        "nextcloud",
+                        "python"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2025-12-26T22:15:01Z",
+                    "updated_at": "2025-12-29T21:19:12Z"
+                },
+                "pypi": {
+                    "url": "https://pypistats.org/packages/nextcloud_cookbook_api",
+                    "last_day": 0,
+                    "last_month": 10,
+                    "last_week": 5,
+                    "total_downloads_url": "https://clickpy.clickhouse.com/dashboard/nextcloud-cookbook-api",
+                    "total_downloads": 1346,
+                    "total_downloads_from": "2025-12-29",
+                    "total_downloads_to": "2026-10-24"
+                }
+            }
+        },
+        {
+            "repo": "next_cookbook_alexa_skill",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/next_cookbook_alexa_skill",
+                    "full_name": "infinityofspace/next_cookbook_alexa_skill",
+                    "description": "Selfhosted Alexa skill for Nextcloud Cookbook",
+                    "language": null,
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2025-12-26T21:35:23Z",
+                    "updated_at": "2025-12-26T21:35:23Z"
+                }
+            }
+        },
+        {
+            "repo": "ngram_graph",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/ngram_graph",
+                    "full_name": "infinityofspace/ngram_graph",
+                    "description": null,
+                    "language": "Python",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2023-12-13T13:27:00Z",
+                    "updated_at": "2023-12-15T10:26:59Z"
+                }
+            }
+        },
+        {
+            "repo": "paperlesspaper_client",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/paperlesspaper_client",
+                    "full_name": "infinityofspace/paperlesspaper_client",
+                    "description": "Python client for the Paperlesspaper API",
+                    "language": "Python",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 7,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2026-08-22T13:36:37Z",
+                    "updated_at": "2026-09-02T20:48:14Z"
+                },
+                "pypi": {
+                    "url": "https://pypistats.org/packages/paperlesspaper_client",
+                    "last_day": 2,
+                    "last_month": 44,
+                    "last_week": 9,
+                    "total_downloads_url": "https://clickpy.clickhouse.com/dashboard/paperlesspaper-client",
+                    "total_downloads": 554,
+                    "total_downloads_from": "2026-09-02",
+                    "total_downloads_to": "2026-10-25"
+                }
+            }
+        },
+        {
+            "repo": "paperlesspaper_open-meteo",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/paperlesspaper_open-meteo",
+                    "full_name": "infinityofspace/paperlesspaper_open-meteo",
+                    "description": "Open-Meteo weather for Paperlesspaper OpenPaper devices",
+                    "language": "JavaScript",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2026-09-03T13:45:13Z",
+                    "updated_at": "2026-09-10T20:18:25Z"
+                }
+            }
+        },
+        {
+            "repo": "pkb_client",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/pkb_client",
+                    "full_name": "infinityofspace/pkb_client",
+                    "description": "Python client for the Porkbun API",
+                    "language": "Python",
+                    "topics": [
+                        "api-client",
+                        "dns-record",
+                        "porkbun",
+                        "python3"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 6,
+                    "open_issues": 8,
+                    "stars": 22,
+                    "watchers": 22,
+                    "subscribers": 2,
+                    "created_at": "2021-03-28T21:24:48Z",
+                    "updated_at": "2026-08-18T22:18:24Z"
+                },
+                "pypi": {
+                    "url": "https://pypistats.org/packages/pkb_client",
+                    "last_day": 451,
+                    "last_month": 12079,
+                    "last_week": 3365,
+                    "total_downloads_url": "https://clickpy.clickhouse.com/dashboard/pkb-client",
+                    "total_downloads": 358981,
+                    "total_downloads_from": "2021-03-28",
+                    "total_downloads_to": "2026-10-25"
+                }
+            }
+        },
+        {
+            "repo": "project-stats",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/project-stats",
+                    "full_name": "infinityofspace/project-stats",
+                    "description": "This repo contains the project and download stats of all my projects in json format.",
+                    "language": null,
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2026-10-21T21:51:26Z",
+                    "updated_at": "2026-10-26T00:36:36Z"
+                }
+            }
+        },
+        {
+            "repo": "remote_minerl_env",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/remote_minerl_env",
+                    "full_name": "infinityofspace/remote_minerl_env",
+                    "description": "Remote environment for minerl competition environments",
+                    "language": "Python",
+                    "topics": [
+                        "gym-environment",
+                        "minerl",
+                        "python3"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 1,
+                    "watchers": 1,
+                    "subscribers": 1,
+                    "created_at": "2021-09-05T13:46:56Z",
+                    "updated_at": "2021-12-23T22:50:58Z"
+                },
+                "pypi": {
+                    "url": "https://pypistats.org/packages/remote_minerl_env",
+                    "last_day": 0,
+                    "last_month": 7,
+                    "last_week": 8,
+                    "total_downloads_url": "https://clickpy.clickhouse.com/dashboard/remote-minerl-env",
+                    "total_downloads": 4281,
+                    "total_downloads_from": "2021-09-07",
+                    "total_downloads_to": "2026-10-23"
+                }
+            }
+        },
+        {
+            "repo": "SfmLearner-Pytorch",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/SfmLearner-Pytorch",
+                    "full_name": "infinityofspace/SfmLearner-Pytorch",
+                    "description": "Pytorch version of SfmLearner from Tinghui Zhou et al.",
+                    "language": "Jupyter Notebook",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2021-05-16T16:57:05Z",
+                    "updated_at": "2021-08-08T10:50:10Z"
+                },
+                "docker_hub": {
+                    "url": "https://hub.docker.com/r/infinityofspace/SfmLearner-Pytorch",
+                    "error": "400 Client Error: Bad Request for url: https://hub.docker.com/v2/repositories/infinityofspace/SfmLearner-Pytorch/"
+                }
+            }
+        },
+        {
+            "repo": "simplelogin-docker-aio",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/simplelogin-docker-aio",
+                    "full_name": "infinityofspace/simplelogin-docker-aio",
+                    "description": "All in one docker image for simplelogin",
+                    "language": "Shell",
+                    "topics": [
+                        "docker",
+                        "email",
+                        "email-alias",
+                        "privacy",
+                        "self-hosted",
+                        "simplelogin"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 2,
+                    "open_issues": 3,
+                    "stars": 5,
+                    "watchers": 5,
+                    "subscribers": 1,
+                    "created_at": "2023-11-10T21:35:38Z",
+                    "updated_at": "2026-08-20T19:50:30Z"
+                },
+                "ghcr": {
+                    "url": "https://github.com/infinityofspace/simplelogin-docker-aio/pkgs/container/simplelogin-docker-aio",
+                    "total_downloads": 7318
+                }
+            }
+        },
+        {
+            "repo": "snapcraft-container",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/snapcraft-container",
+                    "full_name": "infinityofspace/snapcraft-container",
+                    "description": "Multi-architecture Snapcraft container image with support for Systemd",
+                    "language": "Dockerfile",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2024-11-10T20:49:17Z",
+                    "updated_at": "2024-11-12T20:21:46Z"
+                }
+            }
+        },
+        {
+            "repo": "snapcraft-multiarch-action",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/snapcraft-multiarch-action",
+                    "full_name": "infinityofspace/snapcraft-multiarch-action",
+                    "description": null,
+                    "language": "JavaScript",
+                    "topics": [],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 0,
+                    "created_at": "2024-11-10T19:59:02Z",
+                    "updated_at": "2024-11-11T22:15:10Z"
+                }
+            }
+        },
+        {
+            "repo": "twitter-bot-type-classification",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/twitter-bot-type-classification",
+                    "full_name": "infinityofspace/twitter-bot-type-classification",
+                    "description": "Comparison of different machine learning models and different Twitter bot types. Generate a new dataset and calculate features.",
+                    "language": "Jupyter Notebook",
+                    "topics": [
+                        "bot-types",
+                        "bots",
+                        "classification-comparison",
+                        "machine-learning",
+                        "tweet",
+                        "twitter-accounts",
+                        "twitter-bot"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2020-07-31T15:54:10Z",
+                    "updated_at": "2020-09-01T16:13:43Z"
+                }
+            }
+        },
+        {
+            "repo": "vr-escape-room",
+            "stats": {
+                "github": {
+                    "link": "https://github.com/infinityofspace/vr-escape-room",
+                    "full_name": "infinityofspace/vr-escape-room",
+                    "description": null,
+                    "language": null,
+                    "topics": [
+                        "3d-model",
+                        "blender",
+                        "escape-room-game",
+                        "vr"
+                    ],
+                    "archived": false,
+                    "disabled": false,
+                    "forks": 0,
+                    "open_issues": 0,
+                    "stars": 0,
+                    "watchers": 0,
+                    "subscribers": 1,
+                    "created_at": "2023-11-10T09:27:09Z",
+                    "updated_at": "2023-11-10T13:57:52Z"
+                }
+            }
+        }
+    ]
+}
